@@ -34,15 +34,12 @@ th,td{
     color:blue;
     padding: 10px;
 }
-.LVOFF:hover{
+.LVOFF:hover {
     border: 1px dotted blue;
     text-shadow: 2px 2px 2px blue;
 }
-.KOSICH:hover{
+.KOSICH:hover {
     border: 1px dotted blueviolet;
     text-shadow: 2px 2px 2px blueviolet;
 }
-.MARTHA:hover{
-    border: 1px dotted yellow;
-    text-shadow: 2px 2px 2px yellow;
-}
+
