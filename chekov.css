@@ -24,3 +24,13 @@
 .MARTHA{
     color: blueviolet;
 }
+.table-one {
+    border: 1px solid black;
+    color:blue;
+    padding: 4px;
+}
+th,td{
+    border: 1px solid black;
+    color:blue;
+    padding: 10px;
+}
